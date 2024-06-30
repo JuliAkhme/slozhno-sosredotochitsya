@@ -18,7 +18,7 @@
   --background-color: #FFF1F7;
   --background-image: url(../images/cover-image-light.png);
   --outline-color: #32312D66;
-  --decorated-zone: transparent; 
+  --decorated-zone: transparent;
 }
 
 @media (prefers-color-scheme: light) {

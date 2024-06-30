@@ -18,5 +18,21 @@
   --background-color: #000028;
   --background-image: url(../images/cover-image-dark.png);
   --outline-color: #FF007066;
-  --decorated-zone: #FF0070; 
+  --decorated-zone: #FF0070;
+}
+
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --cover-title-color: #DB00FF;
+    --button-color: #FF0070;
+    --title-color: #FF0070;
+    --subtitle-color: #000028; 
+    --subtitle-bg-color: #FF0070; 
+    --text-color: #F1B2CE;
+    --background-color: #000028;
+    --background-image: url(../images/cover-image-dark.png);
+    --outline-color: #FF007066;
+    --decorated-zone: #FF0070;   
+    }
 }
