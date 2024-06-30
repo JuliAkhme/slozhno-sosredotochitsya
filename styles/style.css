@@ -171,6 +171,26 @@
   object-fit: cover;
 }
 
+.item_1 {
+  block-size: 142px;
+}
+
+.item_2 {
+  block-size: 355px;
+}
+
+.item_3 {
+  block-size: 237px;
+}
+
+.item_4 {
+  block-size: 355px;
+}
+
+.item_5 {
+  block-size: 237px;
+}
+
 .content-section__title {
   font-family: var(--main-font);
   color: var(--title-color);
