@@ -1,5 +1,5 @@
 :root {
-  --main-font: IBM Plex mono, sans-serif; 
+  --main-font: IBM Plex mono, monospace, sans-serif; 
   --main-font-size: 18px;
   --shadow-color: #FF0070;
 }
